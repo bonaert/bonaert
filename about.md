@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Greg Bonaert, a computer science student from Brussels, Belgium. I write about computer science, my personal projects and my attempts to become 
+Hi, I'm Greg, a computer science student from Brussels, Belgium. I write about computer science, my personal projects and my attempts to become 
 a slightly better developer. If you're a developer, a maths-lover or just curious, join me in my explorations and learn with me.
 
 I make every post as clear as possible, through lots of examples, clear code and the right amount of maths (a wall of maths isn't the best way to get readers).
