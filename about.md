@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi, I'm Gregory Bonaert (you can call me Greg). Here you'll be able to learn with me about computer science and software development.
+You'll find practical posts (with code) as I explore new themes such as aritificial intelligence, and the underlying maths when needed.
+Since I understand things better when they're explained simply and with examples, I strive to make every post that way.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Hope you like it and if you have any comments contact me at <mailto:harokb@gmail.com>.
