@@ -16,6 +16,8 @@ Since being a developer is more than just about code, I'll also sometimes write 
 
 If you have any comments or just want to talk to me, contact me at <mailto:harokb@gmail.com>.
 
+
+
 {% include image.html
             img="assets/trivial_math.png"
             title="You won't see this"
