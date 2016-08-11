@@ -9,7 +9,7 @@
 title: Gregory Bonaert
 email: harokb@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Become a better developer and learn computer science through posts with lots of example, clear code and some maths (but not too much)
+  Become a better developer and learn computer science through posts with lots of examples, clear code and some maths (but not too much)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://bonaert.tk" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
