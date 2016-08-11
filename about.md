@@ -4,9 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Gregory Bonaert (you can call me Greg). Here you'll be able to learn with me about computer science and software development.
-You'll find practical posts (with code) as I explore new themes such as aritificial intelligence, and the underlying maths when needed.
+Hi, I'm Greg Bonaert, a computer science student from Brussels, Belgium. I write about computer science, my personal projects and my attempts to become 
+a slightly better developer. If you're a developer, a maths-lover or just curious, join me in my explorations and learn with me.
 
-Since I understand things better when they're explained simply and with examples, I strive to make every post that way.
+I strive to make every post as clear as possible, through lots of examples, clear code and the rights amount of maths (a wall of maths isn't the best way to get readers!).
 
-Hope you like it and if you have any comments contact me at <mailto:harokb@gmail.com>.
+
+
+Since being a developer is more than just about code, I'll also sometimes write about psychology, habits, tools and great books I recommend, if I think they can be useful or interesting to you. 
+
+
+If you have any comments or just want to talk to me, contact me at <mailto:harokb@gmail.com>.
+
+{% include image.html
+            img="assets/trivial_math.png"
+            title="You won't see this"
+            caption="You won't see this"
+           %}
