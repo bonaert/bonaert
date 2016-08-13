@@ -18,7 +18,7 @@ If you have any comments or just want to talk to me, contact me at <mailto:harok
 
 
 {% include image.html
-            img="assets/trivial_math.png"
+            img="/assets/trivial_math.png"
             title="You won't see this"
             caption="You won't see this"
            %}
