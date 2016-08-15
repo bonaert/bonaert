@@ -5,14 +5,15 @@
     {% endif %}
         <img src="{{ include.img }}" alt="{{ include.title }}"
 
+	style='
 	{% if include.width %} 
-	width="{{include.width}}"
+	max-width: {{include.width}}px;
 	{% endif %}
 
 	{% if include.height %}
-	height="{{include.height}}"
+	max-height: {{include.height}}px;
 	{% endif %}
-
+	'
 />
     {% if include.url %}
     </a>
